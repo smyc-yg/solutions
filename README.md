@@ -5,6 +5,7 @@
 ## `A*`算法
 
 1. UVA 439 Knight Moves；
+2. 洛谷 P1379 八数码难题；
 
 ## 舞蹈链(Dancing Links X)算法
 
