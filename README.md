@@ -4,6 +4,8 @@
 
 ## 搜索剪枝
 
+1. POJ 1011 Sticks -- dfs+剪枝；
+
 ## `A*`算法
 
 1. UVA 439 Knight Moves；
